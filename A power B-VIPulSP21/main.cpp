@@ -1,11 +1,11 @@
-#include <iostream>
-#include <cmath>
+# include <iostream>
+
 using namespace std;
 
 int main(){
-  int num1,num2;
-  cin>>num1;
-  cin>>num2;
-  int square=pow(num1,num2);
-  cout<<square;
+  int a,b;
+  cin>>a;
+  cin>>b;
+  int sum = a+b;
+  cout<<sum;
 }
