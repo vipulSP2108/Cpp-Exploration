@@ -6,11 +6,11 @@ The following snippet puts computer's choice into the variable computer. Use thi
 
 Input 1
 
-first line contains user's choice
+first line contains user1's choice
 
 Input 2
 
-first line contains user's choice
+first line contains user2's choice
 
 Output
 
