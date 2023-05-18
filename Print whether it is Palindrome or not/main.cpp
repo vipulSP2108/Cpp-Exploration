@@ -3,7 +3,9 @@
 using namespace std;
 
 int main(){
-  string var = "DIIFD";
+  string var;
+  cout << "input an 5 length string"<<endl;
+  cin >> var;
   int i = 0;
   int j = 4;
   int output = 0;
