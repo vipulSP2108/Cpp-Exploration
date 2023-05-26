@@ -1,6 +1,6 @@
 Instructions
 
-Check if three numbers(integers) given as input by a user add to 20
+Check if three numbers(integers) given as input by a user add to 30
 
 Input
 
@@ -8,9 +8,9 @@ First line contains first number and second line contains second number and thir
 
 Output
 
-YES (if sum of these three numbers equals 20)
+YES (if sum of these three numbers equals 30)
 
-NO (if sum of these three numbers is not equal to 20)
+NO (if sum of these three numbers is not equal to 30)
 
 Input 1
 
@@ -18,7 +18,7 @@ Input 1
 >
 >7
 >
->5
+>15
 
 Output 1
 
@@ -28,7 +28,7 @@ Input 2
 
 >-70
 >
-90
+100
 >
 >0
 
