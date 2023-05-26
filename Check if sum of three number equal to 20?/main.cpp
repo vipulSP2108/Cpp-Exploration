@@ -7,7 +7,7 @@ int main(){
   cin>>num1;
   cin>>num2;
   cin>>num3;
-  if (num1+num2+num3==30){
+  if (num1+num2+num3==20){
     cout<<"YES"<<endl;
   }
   else{
